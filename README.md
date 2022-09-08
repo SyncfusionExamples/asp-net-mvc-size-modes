@@ -4,7 +4,8 @@ This repository contains the sample that how to change the size modes for applic
 
 ## Prerequisites
 
-Visual Studio 2022
+* Visual Studio 2022
+* Visual Studio Code
 
 ## How to run this application?
 
